@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+section{
+    background-color: #e5faf8;
+    padding: 0 10vw;
+    display: flex;
+    align-items: center;
+    background-image: url("logo\ \(1\).png");
+    background-repeat: no-repeat;
+    background-position: 120px 300px;
+}
+.duo-card div {
+  display: flex;
+  flex-direction: column ;
+  width: 140px;
+  background-color: white;
+  padding: 20px;
+  align-items: center;
+  gap: 40px;
+  
+  
+
+}
+.duo-card{
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+}
+.duo-card div img{
+    width:25px;
+}
+.card-groupe{
+    display: flex;
+    gap: 40px;
+}
+.omar{
+    padding: 40px 0;
+}
